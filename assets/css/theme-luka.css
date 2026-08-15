@@ -111,9 +111,8 @@ body.theme-luka .nav-container {
 
 body.theme-luka .nav-left a {
   color: var(--luka-text);
-  font-family: "Crimson Pro", Georgia, "Times New Roman", serif;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 body.theme-luka .theme-toggle {
@@ -270,9 +269,8 @@ body.theme-luka .section-title {
   padding-bottom: 10px;
   border-bottom: 2px solid var(--luka-accent);
   color: var(--luka-accent);
-  font-family: "Crimson Pro", Georgia, "Times New Roman", serif;
   font-size: 19px;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 body.theme-luka .section-body p {
@@ -339,9 +337,7 @@ body.theme-luka .experience-content p {
 }
 
 body.theme-luka .exp-title {
-  font-family: "Crimson Pro", Georgia, "Times New Roman", serif;
   font-size: 15px;
-  font-weight: 700;
   color: var(--luka-text);
 }
 
@@ -376,9 +372,8 @@ body.theme-luka .publications ol.bibliography li {
 body.theme-luka .pub-content .title {
   margin-bottom: 4px;
   color: var(--luka-text);
-  font-family: "Crimson Pro", Georgia, "Times New Roman", serif;
   font-size: 15px;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 body.theme-luka .pub-content .author {
@@ -440,14 +435,6 @@ body.theme-luka .template-credit {
   display: inline-block;
   margin-top: 8px;
   font-size: 12px;
-}
-
-body.theme-luka h1,
-body.theme-luka h2,
-body.theme-luka h3,
-body.theme-luka h4 {
-  font-family: "Crimson Pro", Georgia, "Times New Roman", serif;
-  font-weight: 700;
 }
 
 body.theme-luka h1,
